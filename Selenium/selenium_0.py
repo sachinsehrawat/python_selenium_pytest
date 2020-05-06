@@ -3,9 +3,9 @@ driver = webdriver.Chrome()
 import time
 driver.implicitly_wait(5)
 
-# Child - parent traverse
-# Check the items searched are correct or not
-# Check the items added are available in final card
+#1 Child - parent traverse
+#2 Check the items searched are correct or not
+#3 Check the items added are available in final card
 # Check the discount amount is less than total amount
 # Check the total amount is same as sum of items in the cart
 driver.maximize_window()
@@ -32,6 +32,6 @@ items2 = driver.find_elements_by_css_selector(".product-name")
 list2 = []
 for item2 in items2:
     list2.append(item2.text)
-
+#3
 assert list == list2
 
