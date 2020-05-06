@@ -1,0 +1,486 @@
+[0503/132905.617:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/132905.634:ERROR:exception_snapshot_win.cc(98)] thread ID 2000 not found in process
+[0503/132905.634:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/132905.634:ERROR:exception_snapshot_win.cc(98)] thread ID 9660 not found in process
+[0503/132905.665:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/132905.665:ERROR:exception_snapshot_win.cc(98)] thread ID 12956 not found in process
+[0503/132911.364:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/132911.364:ERROR:exception_snapshot_win.cc(98)] thread ID 1572 not found in process
+[0503/153749.206:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/153749.206:ERROR:exception_snapshot_win.cc(98)] thread ID 12932 not found in process
+[0503/153749.222:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/153749.222:ERROR:exception_snapshot_win.cc(98)] thread ID 14388 not found in process
+[0503/153749.253:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/153749.253:ERROR:exception_snapshot_win.cc(98)] thread ID 8232 not found in process
+[0503/153751.176:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/153751.176:ERROR:exception_snapshot_win.cc(98)] thread ID 15092 not found in process
+[0503/160028.986:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/160028.987:ERROR:exception_snapshot_win.cc(98)] thread ID 12032 not found in process
+[0503/160029.002:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/160029.002:ERROR:exception_snapshot_win.cc(98)] thread ID 264 not found in process
+[0503/160029.029:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/160029.029:ERROR:exception_snapshot_win.cc(98)] thread ID 10840 not found in process
+[0503/160030.404:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/160030.404:ERROR:exception_snapshot_win.cc(98)] thread ID 12448 not found in process
+[0504/080523.637:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/080523.637:ERROR:exception_snapshot_win.cc(98)] thread ID 10052 not found in process
+[0504/080523.668:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/080523.668:ERROR:exception_snapshot_win.cc(98)] thread ID 18060 not found in process
+[0504/082753.157:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/082753.157:ERROR:exception_snapshot_win.cc(98)] thread ID 16836 not found in process
+[0504/082753.200:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/082753.200:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/082753.200:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/082753.200:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/082753.200:ERROR:exception_snapshot_win.cc(98)] thread ID 17732 not found in process
+[0504/082813.510:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/082813.510:ERROR:exception_snapshot_win.cc(98)] thread ID 16992 not found in process
+[0504/082813.601:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/082813.601:ERROR:exception_snapshot_win.cc(98)] thread ID 18168 not found in process
+[0504/082814.337:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/082814.337:ERROR:exception_snapshot_win.cc(98)] thread ID 9296 not found in process
+[0504/082814.368:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/082814.368:ERROR:exception_snapshot_win.cc(98)] thread ID 4340 not found in process
+[0504/201959.769:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/201959.781:ERROR:exception_snapshot_win.cc(98)] thread ID 548 not found in process
+[0504/201959.796:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/201959.796:ERROR:exception_snapshot_win.cc(98)] thread ID 14688 not found in process
+[0504/201959.859:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/201959.859:ERROR:exception_snapshot_win.cc(98)] thread ID 16148 not found in process
+[0504/211457.999:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211457.999:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211457.999:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211457.999:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211457.999:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/211458.003:ERROR:exception_snapshot_win.cc(98)] thread ID 8336 not found in process
+[0504/211458.003:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/211458.003:ERROR:exception_snapshot_win.cc(98)] thread ID 17848 not found in process
+[0504/211457.999:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/211458.003:ERROR:exception_snapshot_win.cc(98)] thread ID 19804 not found in process
+[0504/211458.007:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.007:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/211458.011:ERROR:exception_snapshot_win.cc(98)] thread ID 18852 not found in process
+[0504/211458.015:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/211458.015:ERROR:exception_snapshot_win.cc(98)] thread ID 13004 not found in process
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/211458.084:ERROR:exception_snapshot_win.cc(98)] thread ID 18096 not found in process
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:exception_snapshot_win.cc(98)] thread ID 3496 not found in process
+[0504/211458.084:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.084:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/211458.084:ERROR:exception_snapshot_win.cc(98)] thread ID 12464 not found in process
+[0504/211458.080:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/211458.084:ERROR:exception_snapshot_win.cc(98)] thread ID 14228 not found in process
+[0504/211458.096:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.096:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/211458.096:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/211458.096:ERROR:exception_snapshot_win.cc(98)] thread ID 1196 not found in process
+[0504/214610.363:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.365:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.365:ERROR:exception_snapshot_win.cc(98)] thread ID 10144 not found in process
+[0504/214610.366:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.367:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.367:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.367:ERROR:exception_snapshot_win.cc(98)] thread ID 18872 not found in process
+[0504/214610.367:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.367:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.367:ERROR:exception_snapshot_win.cc(98)] thread ID 19660 not found in process
+[0504/214610.379:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.379:ERROR:exception_snapshot_win.cc(98)] thread ID 2460 not found in process
+[0504/214610.379:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.379:ERROR:exception_snapshot_win.cc(98)] thread ID 5624 not found in process
+[0504/214610.443:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.443:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.443:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.443:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.443:ERROR:exception_snapshot_win.cc(98)] thread ID 8988 not found in process
+[0504/214610.451:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.451:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.451:ERROR:exception_snapshot_win.cc(98)] thread ID 12856 not found in process
+[0504/214610.451:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.459:ERROR:exception_snapshot_win.cc(98)] thread ID 7684 not found in process
+[0504/214610.463:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.463:ERROR:exception_snapshot_win.cc(98)] thread ID 5612 not found in process
+[0504/214610.479:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.479:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.479:ERROR:exception_snapshot_win.cc(98)] thread ID 15188 not found in process
+[0504/214610.471:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.499:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.499:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.499:ERROR:exception_snapshot_win.cc(98)] thread ID 17828 not found in process
+[0504/214610.595:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.595:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.595:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.595:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/214610.596:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214610.596:ERROR:exception_snapshot_win.cc(98)] thread ID 13172 not found in process
+[0504/214837.794:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214837.794:ERROR:exception_snapshot_win.cc(98)] thread ID 3724 not found in process
+[0504/214837.842:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/214837.842:ERROR:exception_snapshot_win.cc(98)] thread ID 17100 not found in process
+[0504/220115.618:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/220115.618:ERROR:exception_snapshot_win.cc(98)] thread ID 13340 not found in process
+[0504/220115.622:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/220115.626:ERROR:exception_snapshot_win.cc(98)] thread ID 4820 not found in process
+[0504/220115.690:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/220115.690:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/220115.690:ERROR:exception_snapshot_win.cc(98)] thread ID 8172 not found in process
+[0504/220115.690:ERROR:exception_snapshot_win.cc(98)] thread ID 20168 not found in process
+[0504/221038.669:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.669:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.673:ERROR:exception_snapshot_win.cc(98)] thread ID 12424 not found in process
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.673:ERROR:exception_snapshot_win.cc(98)] thread ID 14820 not found in process
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.673:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.673:ERROR:exception_snapshot_win.cc(98)] thread ID 13708 not found in process
+[0504/221038.673:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.677:ERROR:exception_snapshot_win.cc(98)] thread ID 13828 not found in process
+[0504/221038.673:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.677:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.677:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.677:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.677:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.681:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.681:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.685:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.685:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.685:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.685:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.685:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.685:ERROR:exception_snapshot_win.cc(98)] thread ID 19980 not found in process
+[0504/221038.685:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.685:ERROR:exception_snapshot_win.cc(98)] thread ID 18668 not found in process
+[0504/221038.784:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.784:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.784:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.784:ERROR:exception_snapshot_win.cc(98)] thread ID 17188 not found in process
+[0504/221038.784:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.785:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.785:ERROR:exception_snapshot_win.cc(98)] thread ID 19404 not found in process
+[0504/221038.786:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.787:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.787:ERROR:exception_snapshot_win.cc(98)] thread ID 16372 not found in process
+[0504/221038.821:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.822:ERROR:exception_snapshot_win.cc(98)] thread ID 17472 not found in process
+[0504/221038.858:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.858:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.859:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.859:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.859:ERROR:exception_snapshot_win.cc(98)] thread ID 14000 not found in process
+[0504/221038.871:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.871:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.871:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/221038.871:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/221038.871:ERROR:exception_snapshot_win.cc(98)] thread ID 16664 not found in process
+[0505/072034.353:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/072034.353:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/072034.353:ERROR:exception_snapshot_win.cc(98)] thread ID 3932 not found in process
+[0505/072034.353:ERROR:exception_snapshot_win.cc(98)] thread ID 3772 not found in process
+[0505/072034.385:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/072034.377:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/072034.385:ERROR:exception_snapshot_win.cc(98)] thread ID 16652 not found in process
+[0505/072034.385:ERROR:exception_snapshot_win.cc(98)] thread ID 17952 not found in process
+[0505/072034.457:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/072034.457:ERROR:exception_snapshot_win.cc(98)] thread ID 13784 not found in process
+[0505/072034.457:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/072034.457:ERROR:exception_snapshot_win.cc(98)] thread ID 11360 not found in process
+[0505/072034.473:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/072034.477:ERROR:exception_snapshot_win.cc(98)] thread ID 16964 not found in process
+[0505/072034.477:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/072034.477:ERROR:exception_snapshot_win.cc(98)] thread ID 15428 not found in process
+[0505/075704.453:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/075704.455:ERROR:exception_snapshot_win.cc(98)] thread ID 21300 not found in process
+[0505/075704.483:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/075704.483:ERROR:exception_snapshot_win.cc(98)] thread ID 21304 not found in process
+[0505/075705.888:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/075705.889:ERROR:exception_snapshot_win.cc(98)] thread ID 21348 not found in process
+[0505/075705.914:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/075705.914:ERROR:exception_snapshot_win.cc(98)] thread ID 21360 not found in process
+[0505/075707.102:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/075707.102:ERROR:exception_snapshot_win.cc(98)] thread ID 21388 not found in process
+[0505/075707.134:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/075707.134:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/075707.134:ERROR:exception_snapshot_win.cc(98)] thread ID 21404 not found in process
+[0505/205303.441:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.441:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.445:ERROR:exception_snapshot_win.cc(98)] thread ID 15124 not found in process
+[0505/205303.445:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.445:ERROR:exception_snapshot_win.cc(98)] thread ID 18056 not found in process
+[0505/205303.453:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.453:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.453:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.453:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.453:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.457:ERROR:exception_snapshot_win.cc(98)] thread ID 13300 not found in process
+[0505/205303.461:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.461:ERROR:exception_snapshot_win.cc(98)] thread ID 20452 not found in process
+[0505/205303.461:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.461:ERROR:exception_snapshot_win.cc(98)] thread ID 6860 not found in process
+[0505/205303.461:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.461:ERROR:exception_snapshot_win.cc(98)] thread ID 8132 not found in process
+[0505/205303.461:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.461:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.461:ERROR:exception_snapshot_win.cc(98)] thread ID 15940 not found in process
+[0505/205303.491:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.495:ERROR:exception_snapshot_win.cc(98)] thread ID 18588 not found in process
+[0505/205303.507:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.511:ERROR:exception_snapshot_win.cc(98)] thread ID 19480 not found in process
+[0505/205303.511:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.511:ERROR:exception_snapshot_win.cc(98)] thread ID 2068 not found in process
+[0505/205303.523:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.523:ERROR:exception_snapshot_win.cc(98)] thread ID 16396 not found in process
+[0505/205303.563:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.563:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.563:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.563:ERROR:exception_snapshot_win.cc(98)] thread ID 7600 not found in process
+[0505/205303.643:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.643:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.643:ERROR:exception_snapshot_win.cc(98)] thread ID 15196 not found in process
+[0505/205303.643:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.643:ERROR:exception_snapshot_win.cc(98)] thread ID 736 not found in process
+[0505/205303.653:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.653:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.653:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.653:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.653:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.653:ERROR:exception_snapshot_win.cc(98)] thread ID 17688 not found in process
+[0505/205303.656:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.658:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.658:ERROR:exception_snapshot_win.cc(98)] thread ID 13936 not found in process
+[0505/205303.668:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.668:ERROR:exception_snapshot_win.cc(98)] thread ID 21052 not found in process
+[0505/205303.668:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.668:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.668:ERROR:exception_snapshot_win.cc(98)] thread ID 11500 not found in process
+[0505/205303.688:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.688:ERROR:exception_snapshot_win.cc(98)] thread ID 7860 not found in process
+[0505/205303.704:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.704:ERROR:exception_snapshot_win.cc(98)] thread ID 18332 not found in process
+[0505/205303.708:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.708:ERROR:exception_snapshot_win.cc(98)] thread ID 3308 not found in process
+[0505/205303.712:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.716:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.716:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.716:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.716:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.716:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.716:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.716:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.716:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.716:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/205303.716:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205303.716:ERROR:exception_snapshot_win.cc(98)] thread ID 3400 not found in process
+[0505/205304.765:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205304.765:ERROR:exception_snapshot_win.cc(98)] thread ID 1232 not found in process
+[0505/205304.781:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205304.781:ERROR:exception_snapshot_win.cc(98)] thread ID 20512 not found in process
+[0505/205304.828:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/205304.828:ERROR:exception_snapshot_win.cc(98)] thread ID 11532 not found in process
+[0505/212736.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.648:ERROR:exception_snapshot_win.cc(98)] thread ID 20664 not found in process
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.648:ERROR:exception_snapshot_win.cc(98)] thread ID 12320 not found in process
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.648:ERROR:exception_snapshot_win.cc(98)] thread ID 21572 not found in process
+[0505/212736.648:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.648:ERROR:exception_snapshot_win.cc(98)] thread ID 21708 not found in process
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.648:ERROR:exception_snapshot_win.cc(98)] thread ID 4776 not found in process
+[0505/212736.648:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.648:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.664:ERROR:exception_snapshot_win.cc(98)] thread ID 2032 not found in process
+[0505/212736.680:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.680:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.680:ERROR:exception_snapshot_win.cc(98)] thread ID 15712 not found in process
+[0505/212736.695:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.695:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.695:ERROR:exception_snapshot_win.cc(98)] thread ID 22068 not found in process
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.711:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.711:ERROR:exception_snapshot_win.cc(98)] thread ID 18372 not found in process
+[0505/212736.711:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.726:ERROR:exception_snapshot_win.cc(98)] thread ID 8336 not found in process
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.726:ERROR:exception_snapshot_win.cc(98)] thread ID 22460 not found in process
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.726:ERROR:exception_snapshot_win.cc(98)] thread ID 22456 not found in process
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.726:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.726:ERROR:exception_snapshot_win.cc(98)] thread ID 7084 not found in process
+[0505/212736.726:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.726:ERROR:exception_snapshot_win.cc(98)] thread ID 11692 not found in process
+[0505/212736.742:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.742:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.742:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.742:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.742:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.742:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.742:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.742:ERROR:exception_snapshot_win.cc(98)] thread ID 22020 not found in process
+[0505/212736.742:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.742:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.742:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.742:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.742:ERROR:exception_snapshot_win.cc(98)] thread ID 20556 not found in process
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:exception_snapshot_win.cc(98)] thread ID 17452 not found in process
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.758:ERROR:exception_snapshot_win.cc(98)] thread ID 18080 not found in process
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.758:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.758:ERROR:exception_snapshot_win.cc(98)] thread ID 20976 not found in process
+[0505/212736.773:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.773:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.773:ERROR:exception_snapshot_win.cc(98)] thread ID 14252 not found in process
+[0505/212736.805:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.805:ERROR:exception_snapshot_win.cc(98)] thread ID 10892 not found in process
+[0505/212736.836:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.836:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.836:ERROR:exception_snapshot_win.cc(98)] thread ID 21212 not found in process
+[0505/212736.836:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.836:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.836:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.836:ERROR:exception_snapshot_win.cc(98)] thread ID 21788 not found in process
+[0505/212736.851:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.851:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0505/212736.851:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/212736.851:ERROR:exception_snapshot_win.cc(98)] thread ID 12152 not found in process
+[0505/213758.576:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/213758.576:ERROR:exception_snapshot_win.cc(98)] thread ID 15920 not found in process
+[0505/213758.618:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0505/213758.618:ERROR:exception_snapshot_win.cc(98)] thread ID 22160 not found in process
