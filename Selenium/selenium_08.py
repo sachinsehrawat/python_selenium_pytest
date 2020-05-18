@@ -6,8 +6,8 @@ driver.implicitly_wait(5)
 #1 Child - parent traverse
 #2 Check the items searched are correct or not
 #3 Check the items added are available in final card
-# Check the discount amount is less than total amount
-# Check the total amount is same as sum of items in the cart
+#4 Check the discount amount is less than total amount
+#5 Check the total amount is same as sum of items in the cart
 driver.maximize_window()
 driver.get("https://rahulshettyacademy.com/seleniumPractise/")
 veg = "ber"
@@ -35,3 +35,18 @@ for item2 in items2:
 #3
 assert list == list2
 
+driver.find_element_by_class_name("promoCode").send_keys("rahulshettyacademy")
+driver.find_element_by_class_name("promoBtn").click()
+code = driver.find_element_by_class_name("promoInfo").text
+
+total_amount = driver.find_element_by_css_selector(".totAmt").text
+after_discount = driver.find_element_by_css_selector(".discountAmt").text
+#4
+assert int(total_amount) >  float(after_discount)
+
+#5
+amount = driver.find_elements_by_xpath("//tr/td[5]/p")
+sum = 0
+for amt in amount:
+    sum = sum + int(amt.text)
+assert sum == int(total_amount)
