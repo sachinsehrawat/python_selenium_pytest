@@ -1,0 +1,36 @@
+2020-05-23 21:49:28,447 :INFO : test_form_submission :Password entered 
+2020-05-23 21:49:28,772 :INFO : test_form_submission :Email entered
+2020-05-23 21:49:28,852 :INFO : test_form_submission :Final button clicked
+2020-05-23 21:49:29,301 :INFO : test_form_submission :Password entered 
+2020-05-23 21:49:29,301 :INFO : test_form_submission :Password entered 
+2020-05-23 21:49:29,640 :INFO : test_form_submission :Email entered
+2020-05-23 21:49:29,640 :INFO : test_form_submission :Email entered
+2020-05-23 21:49:29,714 :INFO : test_form_submission :Final button clicked
+2020-05-23 21:49:29,714 :INFO : test_form_submission :Final button clicked
+2020-05-23 21:49:43,048 :INFO : test_selenium :Item Selected
+2020-05-23 21:49:48,569 :INFO : test_selenium : Country entered
+2020-05-23 21:49:48,835 :INFO : test_selenium :Success!
+2020-05-23 21:52:54,584 :INFO : test_form_submission :Password entered 
+2020-05-23 21:52:54,924 :INFO : test_form_submission :Email entered
+2020-05-23 21:52:55,016 :INFO : test_form_submission :Final button clicked
+2020-05-23 21:52:55,458 :INFO : test_form_submission :Password entered 
+2020-05-23 21:52:55,458 :INFO : test_form_submission :Password entered 
+2020-05-23 21:52:55,821 :INFO : test_form_submission :Email entered
+2020-05-23 21:52:55,821 :INFO : test_form_submission :Email entered
+2020-05-23 21:52:55,886 :INFO : test_form_submission :Final button clicked
+2020-05-23 21:52:55,886 :INFO : test_form_submission :Final button clicked
+2020-05-23 21:53:06,547 :INFO : test_selenium :Item Selected
+2020-05-23 21:53:12,039 :INFO : test_selenium : Country entered
+2020-05-23 21:53:12,220 :INFO : test_selenium :Success!
+2020-05-23 21:56:36,026 :INFO : test_form_submission :Password entered 
+2020-05-23 21:56:36,343 :INFO : test_form_submission :Email entered
+2020-05-23 21:56:36,415 :INFO : test_form_submission :Final button clicked
+2020-05-23 21:56:36,844 :INFO : test_form_submission :Password entered 
+2020-05-23 21:56:36,844 :INFO : test_form_submission :Password entered 
+2020-05-23 21:56:37,170 :INFO : test_form_submission :Email entered
+2020-05-23 21:56:37,170 :INFO : test_form_submission :Email entered
+2020-05-23 21:56:37,242 :INFO : test_form_submission :Final button clicked
+2020-05-23 21:56:37,242 :INFO : test_form_submission :Final button clicked
+2020-05-23 21:56:47,660 :INFO : test_selenium :Item Selected
+2020-05-23 21:56:53,148 :INFO : test_selenium : Country entered
+2020-05-23 21:56:53,333 :INFO : test_selenium :Success!

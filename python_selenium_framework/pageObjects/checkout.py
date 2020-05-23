@@ -1,5 +1,7 @@
 from selenium.webdriver.common.by import By
 
+from pageObjects.confirmPage import ConfirmPage
+
 
 class Checkout:
     selectItem = (By.CSS_SELECTOR, ".card.h-100")
@@ -18,4 +20,6 @@ class Checkout:
     finalCheckout = (By.XPATH, "//*[contains(@class,'btn-success')]")
 
     def finalCheck(self):
-        return self.driver.find_element(*Checkout.finalCheckout)
+        self.driver.find_element(*Checkout.finalCheckout).click()
+        confirm_page = ConfirmPage(self.driver)
+        return confirm_page
